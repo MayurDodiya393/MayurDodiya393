@@ -1,6 +1,7 @@
 # About Me:
 
-Hi there!, I'm **Mayur Dodiya**, a passionate **Full-Stack Developer** with expertise in **React.js, Next.js, Django, and Django REST Framework**. I enjoy building scalable, user-friendly web applications with clean code and creative designs.
+Hi there!, 
+I'm **Mayur Dodiya**, a passionate **Full-Stack Developer** with expertise in **React.js, Next.js, Django, and Django REST Framework**. I enjoy building scalable, user-friendly web applications with clean code and creative designs.
 
 **What I Do:**
 
