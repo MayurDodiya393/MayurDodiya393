@@ -13,9 +13,9 @@ Hi there!, I'm **Mayur Dodiya**, a passionate **Full-Stack Developer** with expe
 
 * Pursuing **Master of Computer Applications (MCA)** at **Gujarat Technological University (GTU)** 🎓
 * BCA (Silver Oak University) – 9.45 CGPA
-* NPTEL Certification in IoT (Scored 69%)
+* Python & Django Certification – Successfully completed
 * Certificate of Participation – Blind Coding (Ranked 3rd at Kalpvruksh Conclave, Silver Oak University)
-* CCC (Course on Computer Concepts) – Grade A+
+* NPTEL Certification in IoT (Scored 69%)
 
 👨‍💻 **Work & Experience:**
 
