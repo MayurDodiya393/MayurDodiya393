@@ -1,5 +1,25 @@
-# 💫 About Me:
-🚀 About Me<br>Hi there! 👋 I'm Mayur Dodiya, a passionate Full-Stack Developer and UI/UX Designer with expertise in React.js, Django, and Django REST Framework. I specialize in building scalable web applications with clean, efficient code and intuitive designs.<br><br>💡 What I Do:<br>-🎨 UI/UX Design – Skilled in Photoshop, Illustrator, InDesign, CorelDRAW, After Effects<br>-💻 Frontend Development – React.js, Bootstrap, Tailwind CSS<br>-🖥 Backend Development – Django, Django REST Framework<br>-🛠 Database & APIs – SQLite, PostgreSQL, RESTful APIs<br>-📦 Version Control & Deployment – Git, GitHub, Netlify , pythonanywhere<br><br>📌 Notable Projects:<br>-🚗 Car Selling Web App – React & Django-based marketplace<br>-🍽️ Food Ordering Web App – Dynamic food ordering system<br>-🏙️ CitySync – A Django-only platform for urban services<br><br>🎓 Education & Certifications:<br>-Silver Oak University 🎓<br>-IoT NPTEL Certification (Scored 69%)<br><br>👨‍💻 Work & Experience:<br>-React.js and Django Developer Intern at CodeQuality Technologies<br>-Active member of Palmtree Club (Tech & Innovation Community)
+# About Me:
+
+Hi there!, I'm **Mayur Dodiya**, a passionate **Full-Stack Developer** with expertise in **React.js, Next.js, Django, and Django REST Framework**. I enjoy building scalable, user-friendly web applications with clean code and creative designs.
+
+**What I Do:**
+
+* **Frontend Development** – React.js, Next.js, Bootstrap, Tailwind CSS, JavaScript
+* **Backend Development** – Django, Django REST Framework, FastAPI
+* **Database & APIs** – SQLite, PostgreSQL, RESTful APIs, MySQL, MonogoDB
+* **Version Control & Deployment** – Git, GitHub,GitLab, Netlify, PythonAnywhere, Vercel, Render
+
+**Education & Certifications:**
+
+* Pursuing **Master of Computer Applications (MCA)** at **Gujarat Technological University (GTU)** 🎓
+* BCA (Silver Oak University) – 9.45 CGPA
+* NPTEL Certification in IoT (Scored 69%)
+* Certificate of Participation – Blind Coding (Ranked 3rd at Kalpvruksh Conclave, Silver Oak University)
+* CCC (Course on Computer Concepts) – Grade A+
+
+👨‍💻 **Work & Experience:**
+
+* **Jr. Full-Stack Developer** at **CodeQuality Technologies** – Working on scalable, maintainable real-world projects with cross-functional teams.
 
 
 ## 🌐 Socials:
