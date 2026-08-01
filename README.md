@@ -6,6 +6,7 @@ I'm **Mayur Dodiya**, a passionate **Full-Stack Developer** with expertise in **
 **What I Do:**
 
 * **Frontend Development** – React.js, Next.js, Bootstrap, Tailwind CSS, JavaScript
+* **Backend Development** – Node.Js, Django, Django REST Framework, FastAPI
 * **Backend Development** – Node.js, Django, Django REST Framework, FastAPI
 * **Database & APIs** – SQLite, PostgreSQL, RESTful APIs, MySQL, MonogoDB
 * **Version Control & Deployment** – Git, GitHub,GitLab, Netlify, PythonAnywhere, Vercel, Render
