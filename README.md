@@ -29,7 +29,7 @@ I'm **Mayur Dodiya**, a passionate **Full-Stack Developer** with expertise in **
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dodiyamayur932@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Mayur_Dodiya/) 
 [![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?logo=gitlab&logoColor=white)](https://gitlab.com/MayurDodiya393) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://mayur-dodiya.vercel.app/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://mayur.syncworld.me/) 
 
 
 # 💻 Tech Stack:
