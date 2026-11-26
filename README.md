@@ -1,15 +1,14 @@
 # About Me:
 
-Hi there!, 
+Hi there! 
 I'm **Mayur Dodiya**, a passionate **Full-Stack Developer** with expertise in **React.js, Next.js, Django, and Django REST Framework**. I enjoy building scalable, user-friendly web applications with clean code and creative designs.
 
 **What I Do:**
 
 * **Frontend Development** – React.js, Next.js, Bootstrap, Tailwind CSS, JavaScript
-* **Backend Development** – Node.Js, Django, Django REST Framework, FastAPI
 * **Backend Development** – Node.js, Django, Django REST Framework, FastAPI
-* **Database & APIs** – SQLite, PostgreSQL, RESTful APIs, MySQL, MonogoDB
-* **Version Control & Deployment** – Git, GitHub,GitLab, Netlify, PythonAnywhere, Vercel, Render
+* **Database & APIs** – SQLite, PostgreSQL, RESTful APIs, MySQL, MongoDB
+* **Version Control & Deployment** – Git, GitHub, GitLab, Netlify, PythonAnywhere, Vercel, Render
 
 **Education & Certifications:**
 
@@ -21,12 +20,12 @@ I'm **Mayur Dodiya**, a passionate **Full-Stack Developer** with expertise in **
 
 👨‍💻 **Work & Experience:**
 
-* **Jr. Full-Stack Developer** at **CodeQuality Technologies** – Working on scalable, maintainable real-world projects with cross-functional teams.
+* **Full Stack Developer** at **Codequality Technologies** (since Feb 2025; Internship Trainee from Aug 2024) – Working on scalable, maintainable real-world projects with cross-functional teams.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayurdodiya393) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dodiyamayur932@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dodiymayur932@gmail.com) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Mayur_Dodiya/) 
 [![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?logo=gitlab&logoColor=white)](https://gitlab.com/MayurDodiya393) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://mayur.syncworld.me/) 
@@ -42,7 +41,5 @@ I'm **Mayur Dodiya**, a passionate **Full-Stack Developer** with expertise in **
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MayurDodiya393&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MayurDodiya393&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=MayurDodiya393&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
